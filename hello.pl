@@ -1,2 +1,2 @@
 #!/usr/bin/perl
-print ";";
+print "jintong keyi shuo shi hen chun de la!";
